@@ -1,0 +1,71 @@
+body {
+    background-image: url('images/background-image.jpg');
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align: justify;
+    font-family: serif;
+}
+
+h1, h2, h3, h4 {
+    text-align: center;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1.5;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    font-family: serif;
+    color: #2E0519;
+}
+
+p {
+    font-family: serif;
+    color: black
+}
+
+p.scenedesc {
+    font-style: serif;
+    text-align: center;
+    margin-left: 1em;
+    margin-right: 1em;
+    color: #2E0519
+}
+
+p.letter {
+    text-indent: 0%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    font-family: serif;
+    color: #14053C
+}
+
+p.poem {
+    text-indent: 0%;
+    margin-left: 10%;
+    font-size: 90%;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    font-family: sans-serif;
+    color: #14053C;
+}
+
+pre {
+    font-family: serif;
+    color: #2E0519
+}
+
+figcaption {
+    font-style: serif;
+    padding: 2px;
+    text-align: center;
+    font-family: serif;
+    color: black;
+}
+
+.mynote {
+    background-color: transparent;
+    border: 2px;
+    border-color: black;
+    border-style: solid;
+}

@@ -25,3 +25,7 @@ Code is licensed under the Apache 2.0 license.
    <h2>Changes to html files</h2>
    changed image locations for 1 and 3 (alice in wonderland and romeo and juliet) <br>
    added < link rel="stylesheet" type="text/css" href="style.css"> to the head of all 3 html files <br>
+
+<h1>References</h1>
+background image <br>
+<a href="https://www.freepik.com/free-vector/blank-brown-paper-design_13312258.htm#query=old%20paper&position=15&from_view=keyword&track=ais">Image by rawpixel.com</a> on Freepik
