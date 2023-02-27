@@ -43,7 +43,6 @@ p.letter {
 p.poem {
     text-indent: 0%;
     margin-left: 10%;
-    font-size: 90%;
     margin-top: 1em;
     margin-bottom: 1em;
     font-family: sans-serif;
@@ -65,7 +64,7 @@ figcaption {
 
 .mynote {
     background-color: transparent;
-    border: 2px;
+    border: 3px;
     border-color: black;
     border-style: solid;
 }
