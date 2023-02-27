@@ -45,6 +45,7 @@ p.poem {
     margin-left: 10%;
     margin-top: 1em;
     margin-bottom: 1em;
+    font-size: 90%;
     font-family: sans-serif;
     color: #14053C;
 }
@@ -64,7 +65,4 @@ figcaption {
 
 .mynote {
     background-color: transparent;
-    border: 3px;
-    border-color: black;
-    border-style: solid;
 }
