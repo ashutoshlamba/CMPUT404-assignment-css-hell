@@ -21,8 +21,7 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
-<h1>Part I<h1>
-
-   <h2>Changes to html files<h2>
+<h1>Part I</h1>
+   <h2>Changes to html files</h2>
    changed image locations for 1 and 3 (alice in wonderland and romeo and juliet) <br>
    added < link rel="stylesheet" type="text/css" href="style.css"> to the head of all 3 html files <br>
