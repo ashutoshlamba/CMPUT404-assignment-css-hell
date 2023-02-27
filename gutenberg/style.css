@@ -14,7 +14,7 @@ h1, h2, h3, h4 {
     margin-top: 0.5em;
     margin-bottom: 0.5em;
     font-family: serif;
-    color: #2E0519;
+    color: black;
 }
 
 p {
@@ -27,7 +27,7 @@ p.scenedesc {
     text-align: center;
     margin-left: 1em;
     margin-right: 1em;
-    color: #2E0519
+    color: black
 }
 
 p.letter {
@@ -37,7 +37,7 @@ p.letter {
     margin-top: 1em;
     margin-bottom: 1em;
     font-family: serif;
-    color: #14053C
+    color: black
 }
 
 p.poem {
@@ -47,12 +47,12 @@ p.poem {
     margin-bottom: 1em;
     font-size: 90%;
     font-family: sans-serif;
-    color: #14053C;
+    color: black;
 }
 
 pre {
     font-family: serif;
-    color: #2E0519
+    color: black
 }
 
 figcaption {
